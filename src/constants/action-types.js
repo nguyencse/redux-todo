@@ -1,0 +1,6 @@
+export const ADD_TASK = "ADD_TASK"
+export const TOGGLE_TASK = "TOGGLE_TASK"
+export const FILTER_TASK = "FILTER_TASK"
+export const FILTER_TASK_ALL = "FILTER_ALL"
+export const FILTER_TASK_PENDING = "FILTER_PENDING"
+export const FILTER_TASK_COMPLETED = "FILTER_COMPLETED"
